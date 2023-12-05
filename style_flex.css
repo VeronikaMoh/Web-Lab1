@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Al Bayan, New Peninim MT, Arial, Times New Roman;
+    font-size: 54px;
+    font-weight: bold;
+    }
+
+#container {
+        margin: 30px auto;
+        width: 70.25%;
+        height: 750px;
+        text-align: center;
+}
+
+body {
+    width: 99vw;
+    height: 100vh;
+    background: #f3f2f3;
+        }
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; 
+                                }
+#text1 {
+        width: 25%;
+        background: #897FD9;
+        }
+#img2 {
+        width: 75%;
+        background-color:  #BAE8F6;
+        }
+#img1 {
+        height: 13%;
+        background: #26FF00;
+        }
+#text2 {
+        height: 10%;
+        background: #FFEAA8;
+        }
+header {
+        width: 100%;
+        height: 77%;
+        display: flex;
+        }
